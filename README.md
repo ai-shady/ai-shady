@@ -11,11 +11,6 @@ As **DTC E-commerce Technical Lead**, I architected the global standalone-store 
 - **Commerce:** Shopify Plus, Hydrogen, Vercel Commerce, Custom Checkout (PayPal Fields, Oceanpay)
 - **Compliance:** GDPR/CCPA, CMP, DSAR, PII encryption, WCAG/ADA
 
-## Side projects
-- [shopify-app-chicya](https://github.com/ai-shady/shopify-app-chicya) — Shopify app with webhook/proxy, embed console, and theme/checkout extensions
-- [shopify-theme-chicya](https://github.com/ai-shady/shopify-theme-chicya) — Shopify theme experiments
-- [aws-lambda-encryption](https://github.com/ai-shady/aws-lambda-encryption) — AWS Lambda + SAM + AWS Encryption SDK + KMS key rotation
-
 ## Contact
 - 📧 shadyduan@gmail.com
 - 📍 Changsha, China · Available August 2026
