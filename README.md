@@ -18,4 +18,4 @@ As **DTC E-commerce Technical Lead**, I architected the global standalone-store 
 
 ## Contact
 - 📧 shadyduan@gmail.com
-- 📍 Changsha, China · Available July 2026
+- 📍 Changsha, China · Available August 2026
