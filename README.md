@@ -32,25 +32,6 @@ I engineered global standalone e-commerce storelines across **multiple brands an
 
 ### Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MedusaJS-000000?style=for-the-badge&logo=medusa&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Shopify%20Plus-7AB55C?style=for-the-badge&logo=shopify&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Liquid-4b6ab4?style=for-the-badge&logo=shopify&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-</p>
-
 - **Backend:** Node.js, NestJS, TypeScript, REST/GraphQL APIs, SQL (MySQL/PostgreSQL)
 - **Frontend:** React, Next.js, TypeScript, GraphQL, Liquid (Shopify)
 - **Cloud & Ops:** AWS (ECS, EKS, Lambda, Secrets Manager, S3/CloudFront), Docker, Vercel, GitHub Actions
