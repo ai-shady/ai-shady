@@ -58,11 +58,45 @@ As **DTC E-commerce Technical Lead**, I architected the global standalone-store 
 
 ---
 
-### GitHub Stats
+### Featured Projects
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ai-shady&theme=dark&hide_border=false" height="165"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="300">
+      <a href="https://github.com/ai-shady/shopify-app-chicya">
+        <b>shopify-app-chicya</b>
+        <br/>
+        <img src="https://img.shields.io/github/stars/ai-shady/shopify-app-chicya?style=for-the-badge"/>
+        <img src="https://img.shields.io/github/languages/count/ai-shady/shopify-app-chicya?style=for-the-badge"/>
+        <br/>
+        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
+      </a>
+    </td>
+    <td align="center" width="300">
+      <a href="https://github.com/ai-shady/shopify-theme-chicya">
+        <b>shopify-theme-chicya</b>
+        <br/>
+        <img src="https://img.shields.io/github/stars/ai-shady/shopify-theme-chicya?style=for-the-badge"/>
+        <img src="https://img.shields.io/github/languages/count/ai-shady/shopify-theme-chicya?style=for-the-badge"/>
+        <br/>
+        <img src="https://img.shields.io/badge/-Liquid-6ba4b4?logo=shopify"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="300">
+      <a href="https://github.com/ai-shady/nest-campaign-srv">
+        <b>nest-campaign-srv</b>
+        <br/>
+        <img src="https://img.shields.io/github/stars/ai-shady/nest-campaign-srv?style=for-the-badge"/>
+        <img src="https://img.shields.io/github/languages/count/ai-shady/nest-campaign-srv?style=for-the-badge"/>
+        <br/>
+        <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center"><i>More on my profile</i></td>
+  </tr>
+</table>
 
 ---
 
