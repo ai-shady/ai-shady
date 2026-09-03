@@ -61,12 +61,7 @@ As **DTC E-commerce Technical Lead**, I architected the global standalone-store 
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ai-shady&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ai-shady&theme=dark&hide_border=false&layout=compact" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ai-shady&theme=onedark&row=1&column=6&no-frame=true&margin-w=8"/>
+  <img src="https://streak-stats.demolab.com?user=ai-shady&theme=dark&hide_border=false" height="165"/>
 </p>
 
 ---
