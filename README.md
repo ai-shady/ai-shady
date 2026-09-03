@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Shady%20Duan&fontSize=48&fontAlignY=38&desc=Senior%20Full-Stack%20JS%20Engineer%20路%20DTC%20E-commerce&descAlignY=58" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Shady%20Duan&fontSize=48&fontAlignY=38&desc=Senior%20Full-Stack%20JS%20Engineer%20%7C%20DTC%20E-commerce&descAlignY=58" width="100%"/>
 </p>
 
 <h1 align="center">Hi, I'm Shady Duan 馃憢</h1>
