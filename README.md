@@ -13,6 +13,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ai-shady"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.reddit.com/user/Shot_Meeting7923"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
+  <a href="https://www.facebook.com/shady.duan"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="mailto:shadyduan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/ai-shady"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
@@ -25,7 +26,7 @@
 
 ### What I've Done
 
-I engineered the global standalone-store line across **7 brands and 7 regions**, evolving self-built stores to Shopify Plus to Headless commerce (React/Next.js + Hydrogen/Vercel Commerce), and helped grow the engineering team from **6 to 19 engineers**. Recently focused on cloud security, data compliance, and AI-enabled engineering (AI-assisted dev, AWS ops governance, PII encryption).
+I engineered global standalone e-commerce storelines across **multiple brands and regions**, evolving self-built stores to Shopify Plus to Headless commerce (React/Next.js + Hydrogen/Vercel Commerce), working within engineering teams of **20+ engineers**. Recently focused on cloud security, data compliance, and AI-enabled engineering (AI-assisted dev, AWS ops governance, PII encryption).
 
 ---
 
@@ -66,6 +67,8 @@ I engineered the global standalone-store line across **7 brands and 7 regions**,
       <a href="https://github.com/ai-shady/shopify-app-chicya">
         <b>shopify-app-chicya</b>
         <br/>
+        <a href="https://chicya.com"><img src="https://img.shields.io/badge/Live%20Demo-chicya.com-4caf50?style=flat-square&logo=internetexplorer"/></a>
+        <br/>
         <img src="https://img.shields.io/github/stars/ai-shady/shopify-app-chicya?style=for-the-badge"/>
         <img src="https://img.shields.io/github/languages/count/ai-shady/shopify-app-chicya?style=for-the-badge"/>
         <br/>
@@ -75,6 +78,8 @@ I engineered the global standalone-store line across **7 brands and 7 regions**,
     <td align="center" width="300">
       <a href="https://github.com/ai-shady/shopify-theme-chicya">
         <b>shopify-theme-chicya</b>
+        <br/>
+        <a href="https://chicya.com"><img src="https://img.shields.io/badge/Live%20Demo-chicya.com-4caf50?style=flat-square&logo=internetexplorer"/></a>
         <br/>
         <img src="https://img.shields.io/github/stars/ai-shady/shopify-theme-chicya?style=for-the-badge"/>
         <img src="https://img.shields.io/github/languages/count/ai-shady/shopify-theme-chicya?style=for-the-badge"/>
