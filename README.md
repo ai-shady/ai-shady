@@ -2,12 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Shady%20Duan&fontSize=48&fontAlignY=38&desc=Senior%20Full-Stack%20JS%20Engineer%20%7C%20DTC%20E-commerce&descAlignY=58" width="100%"/>
 </p>
 
-<h1 align="center">Hi, I'm Shady Duan 馃憢</h1>
+<h1 align="center">Hi, I'm Shady Duan</h1>
 
 <p align="center">
-  <b>Senior Full-Stack JavaScript Engineer</b> 路 <b>18 yrs</b> in the JS ecosystem 路 <b>11 yrs at Anker Innovations</b> (SZSE: 300866)
+  <b>Senior Full-Stack JavaScript Engineer</b> | <b>18 yrs</b> in the JS ecosystem | <b>11 yrs at Anker Innovations</b> (SZSE: 300866)
   <br/>
-  AWS Cloud 路 Headless Commerce 路 Privacy Compliance
+  AWS Cloud | Headless Commerce | Privacy Compliance
 </p>
 
 <p align="center">
@@ -18,18 +18,18 @@
 </p>
 
 <p align="center">
-  Full-stack JavaScript engineer with <b>18 years</b> in the JavaScript ecosystem and <b>11 years at Anker Innovations</b>, a globally listed consumer-electronics brand 鈥?with deep, hands-on expertise across AWS cloud infrastructure & operations, headless commerce, and privacy compliance.
+  Full-stack JavaScript engineer with <b>18 years</b> in the JavaScript ecosystem and <b>11 years at Anker Innovations</b>, a globally listed consumer-electronics brand with deep, hands-on expertise across AWS cloud infrastructure & operations, headless commerce, and privacy compliance.
 </p>
 
 ---
 
-### 馃捈 What I've Done
+### What I've Done
 
-As **DTC E-commerce Technical Lead**, I architected the global standalone-store line across **7 brands and 7 regions** 鈥?evolving self-built stores 鈫?Shopify Plus 鈫?Headless commerce (React/Next.js + Hydrogen/Vercel Commerce), and growing a team from **6 to 19 engineers**. Recently focused on cloud security, data compliance, and AI-enabled engineering (AI-assisted dev, AWS ops governance, PII encryption).
+As **DTC E-commerce Technical Lead**, I architected the global standalone-store line across **7 brands and 7 regions**, evolving self-built stores to Shopify Plus to Headless commerce (React/Next.js + Hydrogen/Vercel Commerce), and growing a team from **6 to 19 engineers**. Recently focused on cloud security, data compliance, and AI-enabled engineering (AI-assisted dev, AWS ops governance, PII encryption).
 
 ---
 
-### 馃洜锔?Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -58,7 +58,7 @@ As **DTC E-commerce Technical Lead**, I architected the global standalone-store 
 
 ---
 
-### 馃搳 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ai-shady&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="165"/>
@@ -71,10 +71,10 @@ As **DTC E-commerce Technical Lead**, I architected the global standalone-store 
 
 ---
 
-### 馃摣 Contact
+### Contact
 
-- 馃摟 **Email:** [shadyduan@gmail.com](mailto:shadyduan@gmail.com)
-- 馃搷 **Location:** Changsha, China 路 **Available August 2026**
+- **Email:** [shadyduan@gmail.com](mailto:shadyduan@gmail.com)
+- **Location:** Changsha, China | **Available August 2026**
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
