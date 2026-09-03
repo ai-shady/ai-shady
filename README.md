@@ -25,7 +25,7 @@
 
 ### What I've Done
 
-As **DTC E-commerce Technical Lead**, I architected the global standalone-store line across **7 brands and 7 regions**, evolving self-built stores to Shopify Plus to Headless commerce (React/Next.js + Hydrogen/Vercel Commerce), and growing a team from **6 to 19 engineers**. Recently focused on cloud security, data compliance, and AI-enabled engineering (AI-assisted dev, AWS ops governance, PII encryption).
+I engineered the global standalone-store line across **7 brands and 7 regions**, evolving self-built stores to Shopify Plus to Headless commerce (React/Next.js + Hydrogen/Vercel Commerce), and helped grow the engineering team from **6 to 19 engineers**. Recently focused on cloud security, data compliance, and AI-enabled engineering (AI-assisted dev, AWS ops governance, PII encryption).
 
 ---
 
