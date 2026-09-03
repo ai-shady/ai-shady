@@ -38,6 +38,7 @@ As **DTC E-commerce Technical Lead**, I architected the global standalone-store 
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MedusaJS-000000?style=for-the-badge&logo=medusa&logoColor=white"/>
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Shopify%20Plus-7AB55C?style=for-the-badge&logo=shopify&logoColor=white"/>
   <img src="https://img.shields.io/badge/Liquid-4b6ab4?style=for-the-badge&logo=shopify&logoColor=white"/>
@@ -52,7 +53,7 @@ As **DTC E-commerce Technical Lead**, I architected the global standalone-store 
 - **Backend:** Node.js, NestJS, TypeScript, REST/GraphQL APIs, SQL (MySQL/PostgreSQL)
 - **Frontend:** React, Next.js, TypeScript, GraphQL, Liquid (Shopify)
 - **Cloud & Ops:** AWS (ECS, EKS, Lambda, Secrets Manager, S3/CloudFront), Docker, Vercel, GitHub Actions
-- **Commerce:** Shopify Plus, Hydrogen, Vercel Commerce, Custom Checkout (PayPal Fields, Oceanpay)
+- **Commerce:** Shopify Plus, Hydrogen, Vercel Commerce, MedusaJS, Custom Checkout (PayPal Fields, Oceanpay)
 - **Compliance:** GDPR/CCPA, CMP, DSAR, PII encryption, WCAG/ADA
 
 ---
