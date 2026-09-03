@@ -48,7 +48,7 @@ I engineered global standalone e-commerce storelines across **multiple brands an
       <a href="https://github.com/ai-shady/chicya">
         <b>chicya</b>
         <br/>
-        <i>Headless commerce platform<br/>(Medusa + Next.js)</i>
+        <i>Headless commerce platform</i>
         <br/>
         <a href="https://chicya.com"><img src="https://img.shields.io/badge/Live%20Demo-chicya.com-4caf50?style=flat-square&logo=internetexplorer"/></a>
         <img src="https://img.shields.io/github/stars/ai-shady/chicya?style=for-the-badge"/>
@@ -63,6 +63,7 @@ I engineered global standalone e-commerce storelines across **multiple brands an
     <td align="center">
       <a href="https://github.com/ai-shady/shopify-app-chicya">
         <b>shopify-app-chicya</b>
+        <br/>
         <a href="https://chicya.com"><img src="https://img.shields.io/badge/Live%20Demo-chicya.com-4caf50?style=flat-square&logo=internetexplorer"/></a>
         <img src="https://img.shields.io/github/stars/ai-shady/shopify-app-chicya?style=for-the-badge"/>
         <img src="https://img.shields.io/github/languages/count/ai-shady/shopify-app-chicya?style=for-the-badge"/>
