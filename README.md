@@ -44,7 +44,7 @@ I engineered global standalone e-commerce storelines across **multiple brands an
 
 <table>
   <tr>
-    <td align="center" width="300">
+    <td align="center">
       <a href="https://github.com/ai-shady/chicya">
         <b>chicya</b>
         <br/>
@@ -60,7 +60,7 @@ I engineered global standalone e-commerce storelines across **multiple brands an
         <img src="https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white"/>
       </a>
     </td>
-    <td align="center" width="300">
+    <td align="center">
       <a href="https://github.com/ai-shady/shopify-app-chicya">
         <b>shopify-app-chicya</b>
         <a href="https://chicya.com"><img src="https://img.shields.io/badge/Live%20Demo-chicya.com-4caf50?style=flat-square&logo=internetexplorer"/></a>
@@ -71,7 +71,7 @@ I engineered global standalone e-commerce storelines across **multiple brands an
     </td>
   </tr>
   <tr>
-    <td align="center" width="300">
+    <td align="center">
       <a href="https://github.com/ai-shady/shopify-theme-chicya">
         <b>shopify-theme-chicya</b>
         <br/>
@@ -81,7 +81,7 @@ I engineered global standalone e-commerce storelines across **multiple brands an
         <img src="https://img.shields.io/badge/-Liquid-6ba4b4?logo=shopify"/>
       </a>
     </td>
-    <td align="center" width="300">
+    <td align="center">
       <a href="https://github.com/ai-shady/nest-campaign-srv">
         <b>nest-campaign-srv</b>
         <br/>
