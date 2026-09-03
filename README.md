@@ -58,7 +58,6 @@ I engineered global standalone e-commerce storelines across **multiple brands an
         <img src="https://img.shields.io/badge/-Medusa-000000?logo=medusa"/>
         <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white"/>
-        <br/>
         <img src="https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=black"/>
         <img src="https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white"/>
       </a>
@@ -71,7 +70,6 @@ I engineered global standalone e-commerce storelines across **multiple brands an
         <br/>
         <img src="https://img.shields.io/github/stars/ai-shady/shopify-app-chicya?style=for-the-badge"/>
         <img src="https://img.shields.io/github/languages/count/ai-shady/shopify-app-chicya?style=for-the-badge"/>
-        <br/>
         <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
       </a>
     </td>
@@ -85,7 +83,6 @@ I engineered global standalone e-commerce storelines across **multiple brands an
         <br/>
         <img src="https://img.shields.io/github/stars/ai-shady/shopify-theme-chicya?style=for-the-badge"/>
         <img src="https://img.shields.io/github/languages/count/ai-shady/shopify-theme-chicya?style=for-the-badge"/>
-        <br/>
         <img src="https://img.shields.io/badge/-Liquid-6ba4b4?logo=shopify"/>
       </a>
     </td>
@@ -95,7 +92,6 @@ I engineered global standalone e-commerce storelines across **multiple brands an
         <br/>
         <img src="https://img.shields.io/github/stars/ai-shady/nest-campaign-srv?style=for-the-badge"/>
         <img src="https://img.shields.io/github/languages/count/ai-shady/nest-campaign-srv?style=for-the-badge"/>
-        <br/>
         <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white"/>
       </a>
     </td>
