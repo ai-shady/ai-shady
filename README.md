@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Shady Duan</h1>
 
 <p align="center">
-  <b>Senior Full-Stack JavaScript Engineer</b> | <b>18 yrs</b> in the JS ecosystem | <b>11 yrs at Anker Innovations</b> (SZSE: 300866)
+  <b>Senior Full-Stack JavaScript Engineer</b> | <b>18 yrs</b> in the JS ecosystem | <b>11 yrs</b> in global e-commerce
   <br/>
   AWS Cloud | Headless Commerce | Privacy Compliance
 </p>
@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  Full-stack JavaScript engineer with <b>18 years</b> in the JavaScript ecosystem and <b>11 years at Anker Innovations</b>, a globally listed consumer-electronics brand with deep, hands-on expertise across AWS cloud infrastructure & operations, headless commerce, and privacy compliance.
+  Full-stack JavaScript engineer with <b>18 years</b> in the JavaScript ecosystem and <b>11 years</b> shipping global DTC e-commerce for a consumer-electronics brand, with deep, hands-on expertise across AWS cloud infrastructure & operations, headless commerce, and privacy compliance.
 </p>
 
 ---
