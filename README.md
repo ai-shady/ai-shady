@@ -38,13 +38,6 @@ I engineered global standalone e-commerce storelines across **multiple brands an
 - **Commerce:** Shopify Plus, Hydrogen, Vercel Commerce, MedusaJS, Custom Checkout (PayPal Fields, Oceanpay)
 - **Compliance:** GDPR/CCPA, CMP, DSAR, PII encryption, WCAG/ADA
 
----
-
-### Contact
-
-- **Email:** [shadyduan@gmail.com](mailto:shadyduan@gmail.com)
-- **Location:** Changsha, China | **Available August 2026**
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
 </p>
