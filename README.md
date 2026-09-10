@@ -26,7 +26,7 @@
 
 ### What I've Done
 
-I engineered global standalone e-commerce storelines across **multiple brands and regions**, evolving self-built stores to Shopify Plus to Headless commerce (React/Next.js + Hydrogen/Vercel Commerce), working within engineering teams of **20+ engineers**. Recently focused on cloud security, data compliance, and AI-enabled engineering (AI-assisted dev, AWS ops governance, PII encryption).
+I engineered global standalone e-commerce storelines across **multiple brands and regions**, evolving self-built stores to Shopify Plus to Headless commerce (Next.js/Vercel Commerce, Express.js/Shopify Apps, Netlify/Render/AWS), working within engineering teams of **20+ engineers**. Recently focused on cloud security, data compliance, and AI-enabled engineering (AI-assisted dev, AWS ops governance, PII encryption).
 
 ---
 
