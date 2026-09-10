@@ -5,9 +5,9 @@
 <h1 align="center">Hi, I'm Shady Duan</h1>
 
 <p align="center">
-  <b>Senior Full-Stack Engineer</b> | <b>18 yrs</b> in the js/ts ecosystem | <b>11 yrs</b> in global e-commerce
+  <b>Senior Full-Stack Engineer</b> · <b>18 yrs</b> JS/TS · <b>11 yrs</b> global DTC e-commerce
   <br/>
-  AWS Cloud | Headless Commerce | Privacy Compliance
+  AWS Cloud · Headless Commerce · Privacy Compliance
 </p>
 
 <p align="center">
@@ -19,14 +19,18 @@
 </p>
 
 <p align="center">
-  Full-stack engineer with <b>18 years</b> in the js/ts ecosystem and <b>11 years</b> shipping global DTC e-commerce for a consumer-electronics brand, with deep, hands-on expertise across AWS cloud infrastructure & operations, headless commerce, and privacy compliance.
+  I build and scale global DTC e-commerce platforms end to end — and lead the teams that run them.
 </p>
 
 ---
 
-### What I've Done
+### Highlights
 
-I engineered global standalone e-commerce storelines across **multiple brands and regions**, evolving self-built stores to Shopify Plus to Headless commerce (Next.js/Vercel Commerce, Express.js/Shopify Apps, Netlify/Render/AWS), working within engineering teams of **20+ engineers**. Recently focused on cloud security, data compliance, and AI-enabled engineering (AI-assisted dev, AWS ops governance, PII encryption).
+- **Lead 20+ engineers** across Changsha & Shenzhen, owning the technical direction for multiple brands and regions.
+- **Drove the progressive evolution of standalone storefronts:** self-built Spree → Shopify Plus → Headless (Next.js/React + Hydrogen/Vercel Commerce).
+- **Own AWS cloud architecture & operations:** ECS/EKS/Lambda, secrets management, and CI/CD with GitHub Actions.
+- **Treat compliance as a competitive edge:** GDPR/CCPA, DSAR, PII encryption, WCAG/ADA.
+- **AI-enabled engineering:** AI-assisted development, AWS ops governance, and automation to move faster with lower risk.
 
 ---
 
