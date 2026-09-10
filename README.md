@@ -29,8 +29,8 @@
 - **Lead 20+ engineers** across Changsha & Shenzhen, owning the technical direction for multiple brands and regions.
 - **Drove the progressive evolution of standalone storefronts:** self-built Spree → Shopify Plus → Headless (Next.js/React + Hydrogen/Vercel Commerce).
 - **Own AWS cloud architecture & operations:** ECS/EKS/Lambda, secrets management, and CI/CD with GitHub Actions.
+- **Build across stacks with AI agents:** delivered a Java-based CRM / user-management system and a Python supplier-data audit app.
 - **Treat compliance as a competitive edge:** GDPR/CCPA, DSAR, PII encryption, WCAG/ADA.
-- **AI-enabled engineering:** AI-assisted development, AWS ops governance, and automation to move faster with lower risk.
 
 ---
 
@@ -41,6 +41,18 @@
 - **Cloud & Ops:** AWS (ECS, EKS, Lambda, Secrets Manager, S3/CloudFront), Docker, Vercel, GitHub Actions
 - **Commerce:** Shopify Plus, Hydrogen, Vercel Commerce, MedusaJS, Custom Checkout (PayPal Fields, Oceanpay)
 - **Compliance:** GDPR/CCPA, CMP, DSAR, PII encryption, WCAG/ADA
+
+---
+
+### Other Skills
+
+Additional hands-on, AI-augmented experience across other stacks — working knowledge rather than deep specialization:
+
+- **Java** — CRM / user-management system
+- **Python** — supplier data-audit application
+- **PHP** — WordPress, Magento
+- **Ruby** — Spree Commerce
+- **Mobile** — AppCan hybrid iOS/Android app (interactive lucky-draw)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
