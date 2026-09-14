@@ -48,7 +48,6 @@
 
 Additional hands-on, AI-augmented experience across other stacks — working knowledge rather than deep specialization:
 
-- **Java** — CRM / user-management system
 - **Python** — supplier data-audit application
 - **PHP** — WordPress, Magento
 - **Ruby** — Spree Commerce
