@@ -29,7 +29,7 @@
 - **Lead 20+ engineers** across Changsha & Shenzhen, owning the technical direction for multiple brands and regions.
 - **Drove the progressive evolution of standalone storefronts:** self-built Spree → Shopify Plus → Headless (Next.js/React + Hydrogen/Vercel Commerce).
 - **Own AWS cloud architecture & operations:** ECS/EKS/Lambda, secrets management, and CI/CD with GitHub Actions.
-- **Build across stacks with AI agents:** delivered a Java-based CRM / user-management system and a Python supplier-data audit app.
+- **Build across stacks with AI agents:** delivered a Python supplier-data audit app.
 - **Treat compliance as a competitive edge:** GDPR/CCPA, DSAR, PII encryption, WCAG/ADA.
 
 ---
